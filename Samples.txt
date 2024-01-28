@@ -1,0 +1,91 @@
+Sample Conversation 1:
+- User: Hello
+-- Bot: Hello, there! Welcome to the SuperHeroBot. Whenever you are talking to me you can get information
+	about another superhero, simply by asking. If you dont't know what superhero you want to know about,
+	go to: http://superheroapi.com/ids.html and pick out a name to ask me about.
+	What superhero do you want information about?
+
+- User: Tell me about Thor.
+-- Bot:	Your search matched Lex Luthor, Thor, and Thor Girl.
+
+	Answer a number to select which one you want more information about.
+
+- User:	3
+-- Bot:	Her superhero name is Thor Girl, but her full name is Tarene. 
+	Among her aliases are Asgard Lass, the Designate, the Destroyer, Hammerette, Hammer Girl, Hammer Lass,
+	Tara Olson, Spirit of the Jewel, the Supreme, Thoreta, Thorita, and Thor Lass. 
+	Her place of birth is unknown, and she is considered a good character.
+	
+Do you want to know about Thor Girls powers, her physical traits or see an image of Thor Girl?
+
+- User: Powers, please.
+-- Bot:	Here is a summary of Thor Girls powers:
+	
+Intelligence: 75.
+
+	Strength: 83.
+
+	Speed: 70.
+
+	Durability: 84.
+
+	Power: 100.
+
+	Combat: 70.
+
+	Do you want information on Thor Girls physical traits or see an image of Thor Girl?
+
+- User: Show me a picture.
+-- Bot: Here is a link to an image of Thor Girl:
+
+	https://www.superherodb.com/pictures2/portraits/10/100/1296.jpg
+https://www.superherodb.com/pictures2/portraits/10/100/1296.jpg
+	Do you want to know about Thor Girls powers or the physical traits?
+- User: No, thank you.
+-- Bot:	Thank you for chatting with me. Let me know if you would like to know more about superheros!
+
+
+Sample Conversation 2:
+- User: Hello
+-- Bot: Hello, there! Welcome to the SuperHeroBot. Whenever you are talking to me you can get
+ 	information about another superhero, simply by asking. If you dont't know what superhero you want to
+	know about, go to: http://superheroapi.com/ids.html and pick out a name to ask me about.
+	
+What superhero do you want information about?
+
+- User: Joker.
+-- Bot:	Your search matched Joker.
+	
+Press 1 to get more information on Joker.
+
+- User:	1
+-- Bot:	His superhero name is Joker, but his full name is Jack Napier. Among his aliases are Red Hood I,
+	Clown Prince of Crime, Harlequin of Hate, Jack Napier, Joe Kerr, and Mr. J. His place of birth is unknown,
+	and he is considered a bad character.
+
+	Do you want to know about Jokers powers, his physical traits or see an image of Joker?
+
+- User: traits
+-- Bot:	Here is some information on Jokers physical attributes:
+	
+Race: Human.
+	
+Height: 196 cm.
+	
+Weight: 86 kg.
+
+	Do you want information on Jokers powers or see an image of Joker?
+
+- User: Spiderman
+-- Bot: A character with given name not found, unfortunatly. Please try another superhero or check your spelling.
+
+- User: Bane
+-- Bot:	I missed that.
+
+- User: I want information about Bane
+-- Bot:	Your search matched Bane, and Wolfsbane.
+
+	Answer a number to select which one you want more information about.
+
+- User: You are an idiot. Bye
+-- Bot:	Thank you for chatting with me. Let me know if you would like to know more about superheros!

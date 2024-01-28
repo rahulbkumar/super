@@ -1,0 +1,16 @@
+{
+  "name": "superherowebhook",
+  "version": "1.0.0",
+  "description": "Webhook for Dialogflow chatbot",
+  "main": "index_sh.js",
+  "scripts": {
+    "start": "node index_sh.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sigurd Lekve",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}

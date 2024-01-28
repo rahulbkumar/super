@@ -1,0 +1,11 @@
+{
+    "name": "superhero-api-dialogflow",
+    "description": "An API that exposes superheros",
+    "repository": "https://github.com/sigurdlekve/SuperHeroBot.git",
+    "keywords": [
+        "superhero",
+        "api",
+        "sigurdlekve",
+        "dialogflow"
+    ]
+}
