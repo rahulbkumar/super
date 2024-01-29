@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May  6 23:19:29 2018
 
-@author: Sigurd Lekve
-"""
-
-#Ardow Case - Problem 1
 import random
 test1 = [random.randint(-10,10) for r in range(10)]
 print(test1)
